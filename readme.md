@@ -1,0 +1,1 @@
+# qrTool 二维码图形化加解密工具(google.zxing)
